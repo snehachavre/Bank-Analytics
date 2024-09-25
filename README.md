@@ -22,7 +22,8 @@
 
 *POWERBI DASHBOARD*
 
-![PowerBi_Dashboard](asset/PowerBi_Dashboard.png)
+![PowerBi_Dashboard](asset/PowerBi_Dashbord.png)
+
 
 *Tableau DASHBOARD 1*
 
